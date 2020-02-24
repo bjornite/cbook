@@ -26,6 +26,7 @@ int main()
         return 0;
 }
 
+/* getline is a function in the (newer) stdio library */
 int getline2(char s[], int len)
 {
         int i, c;
